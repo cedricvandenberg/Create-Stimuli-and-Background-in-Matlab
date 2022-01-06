@@ -5,13 +5,14 @@ Instructions (by John A. Endler):
 
 1.  Make new pattern outline or modify existing pattern (easier) to get desired relative areas.
 
-2.  Save new outline as a png file with a unique name.  You can make several and
-save them all to the same directory.
+2.       Save new outline as a png file with a unique name.  You can make several and
+         save them all to the same directory.
 
-3.  You will use the new programme   SetUPOneNudibranchPatternFromPNGfile.m
-Make sure that this programme is in the same directory as your png outline files.
+3.       You will use the new programme   SetUPOneNudibranchPatternFromPNGfile.m
+         Make sure that this programme is in the same directory as your png outline files.
 
 4.  Run SetUPOneNudibranchPatternFromPNGfile.m
+
      A.  Select a PNG file from the list
      B.  A little window will pop up asking about the number of colour classes.
      C.  Enter the number of colours in the pattern as a single number, for example,
