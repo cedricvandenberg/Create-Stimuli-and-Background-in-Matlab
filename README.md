@@ -1,14 +1,14 @@
 # Create-Stimuli-and-Background-in-Matlab
 This repository contains a series of Matlab scripts written by Prof. John A. Endler and modified by Cedric van den Berg
 
-Instructions (by John A. Endler):
+Instructions (by John A. Endler, modified by Cedric van den Berg):
 
-1.       Make new pattern outline or modify existing pattern (easier) to get desired relative areas.
+1.       Make new pattern outline or modify existing pattern (easier) to get desired relative areas. To do so, use Powerpoint or any other drawing software such as Adobe                  Illustrator to create the shape outline of the pattern.
 
 2.       Save new outline as a png file with a unique name.  You can make several and
          save them all to the same directory.
 
-3.       You will use the new programme   SetUPOneNudibranchPatternFromPNGfile.m
+3.       You will use the programme SetUPOneNudibranchPatternFromPNGfile.m
          Make sure that this programme is in the same directory as your png outline files.
 
 4.       Run SetUPOneNudibranchPatternFromPNGfile.m
